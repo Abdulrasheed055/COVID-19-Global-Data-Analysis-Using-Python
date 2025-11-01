@@ -15,11 +15,11 @@ This project explores the global spread, impact, and trends of the COVID-19 pand
 
 ### ✅ Objectives of the Project
 
-✔ Clean and preprocess COVID-19 dataset for analysis
-✔ Perform exploratory data analysis on global and country-level trends
-✔ Visualize confirmed, recovered, and death trends over time
-✔ Identify the most affected countries and measure outcomes
-✔ Generate insights and recommendations
+* Clean and preprocess COVID-19 dataset for analysis
+* Perform exploratory data analysis on global and country-level trends
+* Visualize confirmed, recovered, and death trends over time
+* Identify the most affected countries and measure outcomes
+* Generate insights and recommendations
 
 ---
 
@@ -95,5 +95,3 @@ jupyter notebook
 **Aminu Abdulrasheed**
 Data Analyst | Python | Excel | Power BI
 
-B) Create a **professional GitHub project cover (banner image)** to increase profile engagement
-C) Add badges (e.g., Python, Jupyter, MIT License, Stars) to make it look more professional?
