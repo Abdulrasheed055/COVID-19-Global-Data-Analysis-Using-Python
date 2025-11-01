@@ -4,7 +4,7 @@
 
 This project explores the global spread, impact, and trends of the COVID-19 pandemic using Python. The analysis covers data cleaning, exploratory data analysis (EDA), time-series trend visualization, and extraction of key insights to better understand case progression, fatality rates, and recovery patterns across countries.
 
-### 🔧 Tools & Technologies
+###  Tools & Technologies
 
 * **Language:** Python
 * **Environment:** Jupyter Notebook
@@ -77,7 +77,7 @@ This project explores the global spread, impact, and trends of the COVID-19 pand
 
 ---
 
-### 🚀 How to Run the Project
+###  How to Run the Project
 
 ```bash
 # Clone the repository
@@ -90,13 +90,6 @@ cd covid19-analysis
 jupyter notebook
 ```
 
----
-
-### 🤝 Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to improve.
-
----
 
 ### 🧑‍💻 Author
 
