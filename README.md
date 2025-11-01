@@ -67,12 +67,12 @@ This project explores the global spread, impact, and trends of the COVID-19 pand
 
 ---
 
-### 📎 Future Enhancements
+### Future Enhancements
 
-🔹 Add Power BI dashboard
-🔹 Include population-normalized metrics
-🔹 Add predictive modeling (ARIMA, Prophet, LSTM)
-🔹 Create an interactive web app using Streamlit or Plotly Dash
+* Add Power BI dashboard
+* Include population-normalized metrics
+* Add predictive modeling (ARIMA, Prophet, LSTM)
+* Create an interactive web app using Streamlit or Plotly Dash
 
 ---
 
