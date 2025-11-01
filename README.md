@@ -50,11 +50,11 @@ This project explores the global spread, impact, and trends of the COVID-19 pand
 
 ### 🔍 Key Insights
 
-📌 Over **1.08 Billion confirmed cases** were recorded globally in the dataset.
-📌 The global **recovery rate is approx. 50.5%**, while the **death rate stands at ~4.9%**.
-📌 The **United States recorded the highest number of confirmed cases**, contributing the most to global totals.
-📌 Clear pandemic wave patterns appear when visualizing daily trends, showing peak transmission periods.
-📌 Recovery and death outcomes differ significantly across countries, due to healthcare capacity, policy responses, and testing efficiency.
+* Over **1.08 Billion confirmed cases** were recorded globally in the dataset.
+* The global **recovery rate is approx. 50.5%**, while the **death rate stands at ~4.9%**.
+* The **United States recorded the highest number of confirmed cases**, contributing the most to global totals.
+* Clear pandemic wave patterns appear when visualizing daily trends, showing peak transmission periods.
+* Recovery and death outcomes differ significantly across countries, due to healthcare capacity, policy responses, and testing efficiency.
 
 ---
 
