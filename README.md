@@ -59,12 +59,11 @@ This project explores the global spread, impact, and trends of the COVID-19 pand
 ---
 
 ### 💡 Recommendations
-
-✔ Use **per-100k population normalization** for fairer country comparisons
-✔ Monitor **daily new cases & 7-day moving averages** to detect waves faster
-✔ Overlay **major policy or intervention dates** on charts for better context
-✔ Build an **interactive dashboard** for real-time insights
-✔ Enhance model with forecasting techniques to predict future case trends
+* Use **per-100k population normalization** for fairer country comparisons
+* Monitor **daily new cases & 7-day moving averages** to detect waves faster
+* Overlay **major policy or intervention dates** on charts for better context
+* Build an **interactive dashboard** for real-time insights
+* Enhance model with forecasting techniques to predict future case trends
 
 ---
 
